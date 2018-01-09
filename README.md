@@ -1,5 +1,5 @@
 # Basic sample for Espresso Web
-
+[![Build status](https://build.appcenter.ms/v0.1/apps/9ecab48d-d506-4c1c-9fc8-32378fa2a807/branches/master/badge)](https://appcenter.ms)
 Espresso Web is an API that can be used to write automated tests for hybrid applications which
 contain one or more WebViews. Similar to onData, WebView interactions are actually composed of
 several ViewActions, however ViewActions in Espresso Web are composed of Web Driver Atoms.
